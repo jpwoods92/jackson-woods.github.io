@@ -48,6 +48,12 @@ p.intro {
 	margin: 12px 0 0;
 	line-height: 24px;
 }
+.skills {
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 800px;
+}
+
 a {
 	color: darkgray;
 }
