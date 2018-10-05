@@ -139,8 +139,29 @@
     </div>
     <div class="col-md-5 col-md-offset-1">
       <div class="section-title">
-        <p>For inquiries or collaborations please contact me by email at <strong><a href="mailto:jacksonpwoods@gmail.com">jacksonpwoods@gmail.com</a></strong></p>
+        <p>For inquiries or collaborations please contact me by email at <strong>jacksonpwoods@gmail.com</strong> or fill out the form below.</p>
       </div>
+      <form method="POST" action="https://formspree.io/jacksonpwoods@gmail.com">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Name" required="required">
+              <p class="help-block text-danger"></p>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="form-group">
+              <input type="email" class="form-control" placeholder="Email" required="required">
+              <p class="help-block text-danger"></p>
+            </div>
+          </div>
+        </div>
+        <div class="form-group">
+          <textarea name="message" class="form-control" rows="4" placeholder="Message" required></textarea>
+          <p class="help-block text-danger"></p>
+        </div>
+        <button type="submit" class="btn btn-default btn-lg">Send Message</button>
+      </form>
     </div>
   </div>
 </div>
