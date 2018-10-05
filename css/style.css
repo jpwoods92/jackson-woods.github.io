@@ -54,6 +54,10 @@ p.intro {
 	max-width: 800px;
 }
 
+.skills li {
+	padding-top: 5px;
+}
+
 a {
 	color: darkgray;
 }
