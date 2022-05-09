@@ -1,3 +1,3 @@
 # Portfolio Site
 
-[Live!](https://jackson-woods.com)
+[Live!](https://www.jackson-woods.com)
