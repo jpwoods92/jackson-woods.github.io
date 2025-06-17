@@ -1,11 +1,11 @@
 export const PROJECTS = [
   {
-    title: "Slack Clone",
+    title: "Chat App",
     description:
-      "Slackr is a React app inspired by Slack and built using React and Ruby-on-Rails.",
-    tech: ["React", "Redux", "Ruby-on-Rails", "WebSocket", "Cron Jobs"],
-    demo: "http://slackr.jackson-woods.com/#/",
-    github: "https://github.com/jpwoods92/Slackr",
+      "Raven is a simple chat application built using React and Nest.js",
+    tech: ["React", "Redux", "Nest.js", "WebSocket", "Docker"],
+    demo: "https://raven.jackson-woods.com/",
+    github: "https://github.com/jpwoods92/Raven",
   },
   {
     title: "Aggro",
