@@ -1,6 +1,6 @@
 export const PROJECTS = [
   {
-    title: "Chat App",
+    title: "Raven",
     description:
       "Raven is a simple chat application built using React and Nest.js",
     tech: ["React", "Redux", "Nest.js", "WebSocket", "Docker"],
