@@ -1,9 +1,25 @@
 export const PROJECTS = [
   {
+    title: "HiNote",
+    description:
+      "HiNote is a browser extension that acts as your personal, privacy-focused knowledge base. Effortlessly highlight text on any webpage, attach notes, and manage your insights locally.",
+    tech: [
+      "Typescript",
+      "React",
+      "IndexedDB",
+      "Dexie",
+      "Tailwind",
+      "LangChain.js",
+      "Vite",
+    ],
+    demo: "https://chromewebstore.google.com/detail/hinote/hpnobgajmmgjefkmndolgghpaaiddlej?hl=en-US&utm_source=ext_sidebar",
+    github: "https://github.com/jpwoods92/HiNote",
+  },
+  {
     title: "Raven",
     description:
       "Raven is a simple chat application built using React and Nest.js",
-    tech: ["React", "Redux", "Nest.js", "WebSocket", "Docker"],
+    tech: ["Typescript", "React", "Redux", "Nest.js", "WebSocket", "Docker"],
     demo: "https://raven.jackson-woods.com/",
     github: "https://github.com/jpwoods92/Raven",
   },
